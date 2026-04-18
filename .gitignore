@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# Parcel folders
+dist/
+.parcel-cache/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment variables (sensitive info)
+.env
